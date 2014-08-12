@@ -1,0 +1,16 @@
+newmtl none__mfd_devil_tif
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+Ns 80.000000
+Tr 0.000000
+illum 2
+map_Kd C:\Users\JigglyPig\Desktop\CharacterComplect_1\Source Textures\MFD_Devil.tif
+newmtl none__mfd_devil_tif1
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+Ns 80.000000
+Tr 0.000000
+illum 2
+map_Kd C:\Users\JigglyPig\Desktop\CharacterComplect_1\Source Textures\MFD_Devil.tif

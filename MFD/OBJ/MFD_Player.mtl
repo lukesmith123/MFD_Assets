@@ -1,0 +1,15 @@
+newmtl scene_material
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 50.000000
+Tr 0.000000
+illum 2
+newmtl Cube_Cube_001_AUTO_XSIPOLYCLS_cube_cube_1mat_XSIPOLYCLS.cube_cube_001_auto_xsipolycls_cube_cube_1mat
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 12.800000 12.800000 12.800000
+Ns 20.000000
+Tr 0.000000
+illum 2
+map_Kd C:\Users\JigglyPig\Desktop\CharacterComplect_1\MFD_Main.png

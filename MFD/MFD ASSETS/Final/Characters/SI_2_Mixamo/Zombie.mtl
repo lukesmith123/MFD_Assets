@@ -1,0 +1,8 @@
+newmtl material__mfd_zombie_tif
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ns 80.000000
+Tr 0.000000
+illum 2
+map_Kd C:\Users\JigglyPig\Desktop\CharacterComplect_1\Source Textures\MFD_Zombie.tif
